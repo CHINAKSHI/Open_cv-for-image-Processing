@@ -1,0 +1,31 @@
+🎮 Welcome to Rock-Paper-Scissors!
+
+--- Round 1 ---
+
+Choices: rock, paper, scissors
+Enter your choice: rock
+You chose: rock
+Computer chose: scissors
+You win!
+
+--- Round 2 ---
+
+Choices: rock, paper, scissors
+Enter your choice:  paper
+Invalid input. Enter rock, paper or scissors: paper
+You chose: paper
+Computer chose: scissors
+Computer wins!
+
+--- Round 3 ---
+
+Choices: rock, paper, scissors
+Enter your choice: scissors
+You chose: scissors
+Computer chose: rock
+Computer wins!
+
+🏁 Final Scores:
+You: 1 | Computer: 2
+💻 The computer wins this time. Try again!
+PS C:\Users\cchin\python>
